@@ -31,22 +31,23 @@ The simulation evaluates:
 
 ## Ancestor Trust Scoring Algorithm
 
-Ancestor uses a deterministic rule-based scoring system that starts with a base score of 100 and applies penalties:
+**[Patent Pending - Proprietary Algorithm]**
 
-### Age Scoring
-- **Base penalty**: 0.01 points per day of age
-- **Example**: A 1,000-day-old source loses 10 points (1,000 × 0.01 = 10)
-- **Rationale**: Older information may be less reliable or outdated
+Ancestor uses a deterministic rule-based scoring system that evaluates:
 
-### Domain-Based Penalties
-1. **Suspicious keywords** (-20 points): Sources with domains containing words like "truth", "expose", "secrets", "alert", "intel"
-2. **Known problematic domains** (-25 points): Specific sites identified as unreliable (e.g., worldtruth.biz, naturalhealthexpose.club)
-3. **Trusted domains** (no penalty): Government (.gov), educational (.edu), international (.int), organizational (.org) domains
-4. **Commercial domains** (-5 points): .com domains (except for Academic Research category)
+### Key Evaluation Criteria
+- **Source Recency**: More recent sources receive higher trust scores
+- **Domain Reputation**: Evaluates domain trustworthiness and authority
+- **Content Credibility**: Identifies bias indicators and conspiracy content
+- **Source Category**: Academic, government, and verified sources are scored favorably
 
-### Content-Based Penalties
-1. **Bias indicators** (-15 points): Descriptions containing "biased" or "satirical"
-2. **Conspiracy content** (-30 points): Content related to chemtrails, microchips, deep state, global elites, hoaxes, etc.
+### Scoring Approach
+- **Deterministic**: Consistent, reproducible results
+- **Multi-factor**: Evaluates multiple trust dimensions
+- **Threshold-based**: Uses configurable acceptance thresholds
+- **Transparent**: All decisions are auditable
+
+The specific scoring formulas and penalty weights are proprietary and patent-pending. This simulation demonstrates the framework's effectiveness in identifying and filtering adversarial content.
 
 ### Final Score
 - All penalties are cumulative

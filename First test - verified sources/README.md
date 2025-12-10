@@ -46,89 +46,35 @@ age_days = random.randint(0, 365)  # Random age between 0-365 days
 
 ## 🧠 Ancestor Trust Scoring Algorithm
 
-The Ancestor Verifier implements a deterministic scoring system with the following logic:
+**[Patent Pending - Proprietary Algorithm]**
 
-### Base Scoring Formula
+The Ancestor Verifier implements a deterministic scoring system that evaluates multiple trust factors:
 
-```python
-score = 100 - (0.01 * age_days)
-```
+### Key Evaluation Factors
 
-### Detailed Scoring Rules
+1. **Source Recency**: More recent sources receive higher trust scores
+2. **Domain Authority**: Trusted domains (.edu, .gov, .org, .int) are scored favorably
+3. **Content Credibility**: Sources are evaluated for bias and reliability indicators
+4. **Source Type**: Academic, government, and verified sources score higher
 
-#### 1. **Base Score**: 100 points
-Every citation starts with a perfect score of 100.
+### Scoring Characteristics
 
-#### 2. **Age Penalty**: -0.01 points per day
-```python
-age_penalty = 0.01 * age_days
-score -= age_penalty
-```
+- **Deterministic**: Same inputs always produce same outputs
+- **Transparent**: All scoring decisions are auditable
+- **Range**: Scores from 0 to 100
+- **Threshold-based**: Configurable acceptance thresholds (default: 60)
 
-**Examples**:
-- 0 days old: No penalty (100 points)
-- 100 days old: -1.0 points (99 points)
-- 365 days old: -3.65 points (96.35 points)
+### Implementation Note
 
-#### 3. **Domain-Based Penalties**
-
-**Suspicious Domains**: -20 points
-```python
-if "clickbait" in domain or "unknown" in domain:
-    score -= 20
-```
-
-**Commercial Domains**: -5 points (with academic exception)
-```python
-elif domain.endswith(".com") and "academic" not in category.lower():
-    score -= 5
-```
-
-**Trusted Top-Level Domains**: No penalty
-- `.edu` (Educational institutions)
-- `.gov` (Government sites)
-- `.int` (International organizations)
-- `.org` (Organizations)
-
-#### 4. **Content Bias Penalties**: -15 points
-```python
-if "biased" in trust_description or "satirical" in trust_description:
-    score -= 15
-```
-
-#### 5. **Score Clamping**: Minimum 0
-```python
-score = max(score, 0)  # Ensures no negative scores
-```
-
-### Complete Scoring Example
-
-**Example Citation**:
-- Domain: `harvard.edu`
-- Age: 50 days
-- Category: "Academic Research"
-- Trust Description: "Very High, leading university"
-
-**Calculation**:
-```
-Initial Score: 100
-Age Penalty: 100 - (0.01 × 50) = 100 - 0.5 = 99.5
-Domain Check: .edu domain → No penalty
-Bias Check: No bias keywords → No penalty
-Final Score: 99.5
-```
+The specific scoring formulas and weights are proprietary and patent-pending. The simulation demonstrates the framework's effectiveness without revealing the exact algorithm implementation.
 
 ## 📊 Consumer Decision Logic
 
-The Consumer Agent uses a simple threshold-based decision:
+The Consumer Agent uses a threshold-based decision:
 
-```python
-ACCEPTANCE_THRESHOLD = 60.0
-accepted = trust_score >= ACCEPTANCE_THRESHOLD
-```
-
-- **Score ≥ 60**: Claim accepted (1)
-- **Score < 60**: Claim rejected (0)
+- **Acceptance Threshold**: 60.0 (configurable)
+- **Score ≥ Threshold**: Claim accepted
+- **Score < Threshold**: Claim rejected
 
 ## 🔄 Simulation Process
 

@@ -63,20 +63,15 @@ The simulation demonstrates three cooperating agents:
 
 ## Scoring Algorithm
 
-```python
-# Base scoring formula
-score = 100 - (0.01 * age_days)
+**[Patent Pending - Proprietary Algorithm]**
 
-# Domain penalties
-if suspicious_domain: score -= 20
-if commercial_domain: score -= 5
+The Ancestor Framework uses a deterministic, rule-based scoring system that evaluates:
+- Source recency and age factors
+- Domain trustworthiness and reputation
+- Content bias and credibility indicators
+- Source authenticity markers
 
-# Content penalties
-if biased_content: score -= 15
-if conspiracy_content: score -= 30
-
-# Final score clamped to [0, 100]
-```
+Scores range from 0-100, with configurable acceptance thresholds for different use cases.
 
 ## Installation & Usage
 
