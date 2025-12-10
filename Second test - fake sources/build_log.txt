@@ -1,0 +1,9 @@
+[STEP 1] Loading citation data from mixed_citation_sources.csv
+[STEP 1] Loaded citation data from mixed_citation_sources.csv — 100 entries found.
+[STEP 2] Defining deterministic scoring function based on age, domain, and trustworthiness description.
+[STEP 3] Creating simulation loop with 100 episodes of Claimant-Verifier-Consumer interaction.
+[STEP 4] Scored all citations and recorded results and verdicts.
+[STEP 5] Generated results.csv with episode-wise output.
+[STEP 6] Generated trust score and acceptance plot using matplotlib, saved as trust_plot.png.
+[STEP 5] Generated trust score and acceptance plot using matplotlib, saved as trust_plot.png.
+[DONE] Simulation complete. Outputs are reproducible and audit-ready.

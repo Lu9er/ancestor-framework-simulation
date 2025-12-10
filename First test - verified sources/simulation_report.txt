@@ -1,0 +1,42 @@
+
+Simulation Summary Report
+
+Date: 2025-10-21 13:26:53 UTC
+
+Overview:
+This simulation tested whether a deterministic, heuristic-based trust scoring engine (Ancestor) could influence agent behavior in a cooperative multi-agent setting. Three agent roles were simulated: a Claimant agent (selects citations), a Verifier agent (Ancestor engine scoring trustworthiness), and a Consumer agent (accepts or rejects based on score threshold).
+
+Key Results:
+- Total episodes simulated: 100
+- Trust score acceptance threshold: 60
+- Overall acceptance rate: 100.00%
+- Average trust score: 96.59
+- Score range: 83.88 – 99.97
+
+Top 5 Highest Scoring Citations:
+ episode  score                     url
+      32  99.97 https://www.bruegel.org
+       3  99.88  https://data.europa.eu
+      15  99.85    https://chemrxiv.org
+      49  99.78     https://data.gov.uk
+      85  99.64     https://www.nih.gov
+
+Top 5 Lowest Scoring Citations:
+ episode  score                           url
+      28  83.88    https://www.bbc.co.uk/news
+       1  91.73          https://www.piie.com
+      74  91.75 https://www.checkyourfact.com
+      57  91.79   https://www.marketwatch.com
+      30  91.99       https://www.nytimes.com
+
+Insights:
+- All 100 claims were accepted due to scores exceeding the acceptance threshold.
+- The dataset comprised only high-quality, real-world citations, verified manually.
+- The Ancestor engine used a rule-based approach: penalizing source age, domain type, and perceived bias.
+- The simulation demonstrates that cooperation (claim acceptance) can be sustained through deterministic trust evaluation, even in the absence of agent memory or learning.
+
+Outputs Generated:
+- main.py: The simulation logic
+- results.csv: Data from all 100 episodes
+- trust_plot.png: Visualization of trust scores and decisions
+- build_log.txt: Execution log detailing simulation steps

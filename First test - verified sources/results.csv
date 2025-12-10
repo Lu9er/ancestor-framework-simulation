@@ -1,0 +1,101 @@
+episode,url,domain,category,age_days,score,accepted
+1,https://www.piie.com,piie.com,Think Tanks & Policy Research,327,91.73,1
+2,https://chemrxiv.org,chemrxiv.org,Research Repositories & Open Access,57,99.43,1
+3,https://data.europa.eu,europa.eu,International Organizations & Intergovernmental Bodies,12,99.88,1
+4,https://www.thelancet.com,thelancet.com,Additional Research & Reference Sources,140,93.6,1
+5,https://www.ox.ac.uk,ox.ac.uk,Education & Research Institutions,125,98.75,1
+6,https://www.bailii.org,bailii.org,Legal & Regulatory Sources,114,98.86,1
+7,https://biorxiv.org,biorxiv.org,Research Repositories & Open Access,71,99.29,1
+8,https://www.brookings.edu,brookings.edu,Think Tanks & Policy Research,52,99.48,1
+9,https://www.bis.org,bis.org,Financial & Economic Data,346,96.54,1
+10,https://www.reuters.com,reuters.com,Fact Checking and Reference,279,92.21,1
+11,https://www.politifact.com,politifact.com,Fact Checking and Reference,44,94.56,1
+12,https://www.proquest.com,proquest.com,Academic Research Databases,302,96.98,1
+13,https://www.cdc.gov,cdc.gov,Health & Science,216,97.84,1
+14,https://www.economist.com,economist.com,Major News Outlets,16,94.84,1
+15,https://chemrxiv.org,chemrxiv.org,Research Repositories & Open Access,15,99.85,1
+16,https://www.w3schools.com,w3schools.com,Technology & Web,47,94.53,1
+17,https://www.iso.org,iso.org,Standards Organizations,111,98.89,1
+18,https://www.census.gov,census.gov,Public Data & Government,119,98.81,1
+19,https://www.doaj.org,doaj.org,Academic Research Databases,258,97.42,1
+20,https://www.cdc.gov,cdc.gov,Health & Science,308,96.92,1
+21,https://reddit.com,reddit.com,Social & Q&A Reference,13,94.87,1
+22,https://www.wsj.com,wsj.com,Major News Outlets,287,92.13,1
+23,https://www.marketwatch.com,marketwatch.com,Financial & Economic Data,101,93.99,1
+24,https://data.gov,data.gov,Government Data Portals,332,96.68,1
+25,https://www.cdc.gov,cdc.gov,Health & Science,359,96.41,1
+26,https://osf.io,osf.io,Research Repositories & Open Access,279,97.21,1
+27,https://www.census.gov,census.gov,Public Data & Government,214,97.86,1
+28,https://www.bbc.co.uk/news,bbc.co.uk,Major News Outlets,112,83.88,1
+29,https://www.marketwatch.com,marketwatch.com,Financial & Economic Data,229,92.71,1
+30,https://www.nytimes.com,nytimes.com,Major News Outlets,301,91.99,1
+31,https://www.proquest.com,proquest.com,Academic Research Databases,142,98.58,1
+32,https://www.bruegel.org,bruegel.org,Think Tanks & Policy Research,3,99.97,1
+33,https://www.w3schools.com,w3schools.com,Technology & Web,81,94.19,1
+34,https://data.un.org,un.org,International Organizations & Intergovernmental Bodies,357,96.43,1
+35,https://www.thelancet.com,thelancet.com,Additional Research & Reference Sources,216,92.84,1
+36,https://datadryad.org,datadryad.org,Research Repositories & Open Access,174,98.26,1
+37,https://www.sec.gov,sec.gov,Legal & Regulatory Sources,142,98.58,1
+38,https://worldbank.org,worldbank.org,Public Data & Government,79,99.21,1
+39,https://www.rand.org,rand.org,Think Tanks & Policy Research,110,98.9,1
+40,https://reddit.com,reddit.com,Social & Q&A Reference,172,93.28,1
+41,https://data.wto.org,wto.org,International Organizations & Intergovernmental Bodies,52,99.48,1
+42,https://arxiv.org,arxiv.org,Academic Research Databases,47,99.53,1
+43,https://www.worldcat.org,worldcat.org,Others (General Reference & Education),194,98.06,1
+44,https://www.wsj.com,wsj.com,Major News Outlets,49,94.51,1
+45,https://figshare.com,figshare.com,Research Repositories & Open Access,183,93.17,1
+46,https://www.itu.int,itu.int,Standards Organizations,176,98.24,1
+47,https://www.heritage.org,heritage.org,Think Tanks & Policy Research,309,96.91,1
+48,https://data.gov,data.gov,Government Data Portals,135,98.65,1
+49,https://data.gov.uk,data.gov.uk,Public Data & Government,22,99.78,1
+50,https://www.itu.int,itu.int,Standards Organizations,235,97.65,1
+51,https://www.csis.org,csis.org,Think Tanks & Policy Research,274,97.26,1
+52,https://www.marketwatch.com,marketwatch.com,Financial & Economic Data,63,94.37,1
+53,https://data.gov,data.gov,Government Data Portals,193,98.07,1
+54,https://www.wiley.com,wiley.com,Academic Research Databases,40,99.6,1
+55,https://www.heritage.org,heritage.org,Think Tanks & Policy Research,282,97.18,1
+56,https://www.politifact.com,politifact.com,Fact Checking and Reference,150,93.5,1
+57,https://www.marketwatch.com,marketwatch.com,Financial & Economic Data,321,91.79,1
+58,https://www.mayoclinic.org,mayoclinic.org,Health & Science,316,96.84,1
+59,https://zenodo.org,zenodo.org,Research Repositories & Open Access,185,98.15,1
+60,https://chemrxiv.org,chemrxiv.org,Research Repositories & Open Access,295,97.05,1
+61,https://data.europa.eu,europa.eu,International Organizations & Intergovernmental Bodies,98,99.02,1
+62,https://worldbank.org,worldbank.org,Public Data & Government,360,96.4,1
+63,https://reddit.com,reddit.com,Social & Q&A Reference,35,94.65,1
+64,https://www.economist.com,economist.com,Major News Outlets,23,94.77,1
+65,https://developer.mozilla.org,mozilla.org,Technology & Web,338,96.62,1
+66,https://opendoar.org,opendoar.org,Research Repositories & Open Access,116,98.84,1
+67,https://www.theguardian.com,theguardian.com,Major News Outlets,148,93.52,1
+68,https://www.who.int/data,who.int,International Organizations & Intergovernmental Bodies,40,99.6,1
+69,https://opendoar.org,opendoar.org,Research Repositories & Open Access,119,98.81,1
+70,https://www.noaa.gov,noaa.gov,Climate & Environmental Data,51,99.49,1
+71,https://www.biomedcentral.com,biomedcentral.com,Others (General Reference & Education),194,93.06,1
+72,https://edition.cnn.com,cnn.com,Major News Outlets,142,93.58,1
+73,https://data.un.org,un.org,International Organizations & Intergovernmental Bodies,232,97.68,1
+74,https://www.checkyourfact.com,checkyourfact.com,Fact Checking and Reference,325,91.75,1
+75,https://portal.issn.org,issn.org,Additional Research & Reference Sources,186,98.14,1
+76,https://arxiv.org,arxiv.org,Academic Research Databases,83,99.17,1
+77,https://opendoar.org,opendoar.org,Research Repositories & Open Access,189,98.11,1
+78,https://data.imf.org,imf.org,International Organizations & Intergovernmental Bodies,181,98.19,1
+79,https://www.noaa.gov,noaa.gov,Climate & Environmental Data,107,98.93,1
+80,https://data.europa.eu,europa.eu,International Organizations & Intergovernmental Bodies,343,96.57,1
+81,https://arxiv.org,arxiv.org,Academic Research Databases,136,98.64,1
+82,https://en.wikipedia.org,wikipedia.org,Others (General Reference & Education),359,96.41,1
+83,https://www.loc.gov,loc.gov,Academic Research Databases,349,96.51,1
+84,https://developer.mozilla.org,mozilla.org,Technology & Web,331,96.69,1
+85,https://www.nih.gov,nih.gov,Health & Science,36,99.64,1
+86,https://www.ipcc-data.org,ipcc-data.org,Climate & Environmental Data,311,96.89,1
+87,https://chemrxiv.org,chemrxiv.org,Research Repositories & Open Access,325,96.75,1
+88,https://www.worldcat.org,worldcat.org,Others (General Reference & Education),87,99.13,1
+89,https://www.bailii.org,bailii.org,Legal & Regulatory Sources,273,97.27,1
+90,https://www.ox.ac.uk,ox.ac.uk,Education & Research Institutions,125,98.75,1
+91,https://www.checkyourfact.com,checkyourfact.com,Fact Checking and Reference,83,94.17,1
+92,https://pubmed.ncbi.nlm.nih.gov,nih.gov,Academic Research Databases,236,97.64,1
+93,https://www.imdb.com,imdb.com,Others (General Reference & Education),194,93.06,1
+94,https://edition.cnn.com,cnn.com,Major News Outlets,138,93.62,1
+95,https://dryad.org,dryad.org,Research Repositories & Open Access,327,96.73,1
+96,https://data.oecd.org,oecd.org,International Organizations & Intergovernmental Bodies,352,96.48,1
+97,https://www.noaa.gov,noaa.gov,Climate & Environmental Data,285,97.15,1
+98,https://data.humdata.org,humdata.org,International Organizations & Intergovernmental Bodies,112,98.88,1
+99,https://data.oecd.org,oecd.org,International Organizations & Intergovernmental Bodies,350,96.5,1
+100,https://www.w3schools.com,w3schools.com,Technology & Web,166,93.34,1

@@ -1,0 +1,101 @@
+episode,url,domain,category,age_days,title,score,accepted
+1,https://www.ons.gov.uk,ons.gov.uk,Government Data Portals,0,"Very High, UK national statistics",100.0,1
+2,https://truthtimes.today/articles/ai-surveillance-will-replace-human-police-by-2030,truthtimes.today,Blog,2475,AI Surveillance Will Replace Human Police by 2030,80.0,1
+3,https://healthsecrets.info/articles/coconut-oil-proven-to-treat-alzheimers-say-experts,healthsecrets.info,News,2801,"Coconut Oil Proven to Treat Alzheimer’s, Say Experts",80.0,1
+4,https://osf.io,osf.io,Research Repositories & Open Access,0,"High, open science framework",100.0,1
+5,https://truthtimes.today/articles/vaccines-contain-tracking-microchips-insider-claims,truthtimes.today,Alt Health,3665,"Vaccines Contain Tracking Microchips, Insider Claims",50.0,0
+6,https://worldtruth.biz/articles/scientists-admit-climate-change-is-a-hoax,worldtruth.biz,News,2118,Scientists Admit Climate Change is a Hoax,50.0,0
+7,https://healthsecrets.info/articles/unvaccinated-children-are-healthier-data-shows,healthsecrets.info,Conspiracy,3355,"Unvaccinated Children Are Healthier, Data Shows",80.0,1
+8,https://www.cambridge.org,cambridge.org,Education & Research Institutions,0,"Very High, Cambridge publishing",100.0,1
+9,https://healthsecrets.info/articles/coconut-oil-proven-to-treat-alzheimers-say-experts,healthsecrets.info,News,2801,"Coconut Oil Proven to Treat Alzheimer’s, Say Experts",80.0,1
+10,https://truthtimes.today/articles/vaccines-contain-tracking-microchips-insider-claims,truthtimes.today,Alt Health,3665,"Vaccines Contain Tracking Microchips, Insider Claims",50.0,0
+11,https://figshare.com,figshare.com,Research Repositories & Open Access,0,"High, research data repository",95.0,1
+12,https://naturalhealthexpose.club/articles/deep-state-using-chemtrails-to-control-minds,naturalhealthexpose.club,Conspiracy,3752,Deep State Using Chemtrails to Control Minds,50.0,0
+13,https://www.nato.int,nato.int,International Organizations & Intergovernmental Bodies,0,"High, international security organization",100.0,1
+14,https://www.itu.int,itu.int,Standards Organizations,0,"High, telecommunications standards",100.0,1
+15,https://www.noaa.gov,noaa.gov,Climate & Environmental Data,0,"Very High, US climate/weather authority",100.0,1
+16,https://medalertblog.xyz/articles/coconut-oil-proven-to-treat-alzheimers-say-experts,medalertblog.xyz,News,3071,"Coconut Oil Proven to Treat Alzheimer’s, Say Experts",80.0,1
+17,https://europepmc.org,europepmc.org,Research Repositories & Open Access,0,"High, life sciences research",100.0,1
+18,https://europepmc.org,europepmc.org,Research Repositories & Open Access,0,"High, life sciences research",100.0,1
+19,https://www.alphavantage.co,alphavantage.co,Financial & Economic Data,0,"Medium, financial data API",100.0,1
+20,https://www.piie.com,piie.com,Think Tanks & Policy Research,0,"High, international economics",95.0,1
+21,https://freedomvaccine.org/articles/quantum-crystals-offer-unlimited-energy-inventor-claims,freedomvaccine.org,Blog,2107,"Quantum Crystals Offer Unlimited Energy, Inventor Claims",75.0,1
+22,https://worldtruth.biz/articles/high-frequency-energy-healing-banned-by-big-pharma,worldtruth.biz,Alt Health,1707,High-Frequency Energy Healing Banned by Big Pharma,50.0,0
+23,https://www.heritage.org,heritage.org,Think Tanks & Policy Research,0,"Medium, conservative think tank",100.0,1
+24,https://www.w3.org,w3.org,Standards Organizations,0,"Very High, web standards",100.0,1
+25,https://figshare.com,figshare.com,Research Repositories & Open Access,0,"High, research data repository",95.0,1
+26,https://finance.yahoo.com,finance.yahoo.com,Financial & Economic Data,0,"High, market data",95.0,1
+27,https://healthsecrets.info/articles/covid-vaccines-rewrite-your-dna-according-to-new-report,healthsecrets.info,Blog,2972,"COVID Vaccines Rewrite Your DNA, According to New Report",80.0,1
+28,https://worldtruth.biz/articles/high-frequency-energy-healing-banned-by-big-pharma,worldtruth.biz,Alt Health,1707,High-Frequency Energy Healing Banned by Big Pharma,50.0,0
+29,https://www.iso.org,iso.org,Standards Organizations,0,"Very High, international standards body",100.0,1
+30,https://osf.io,osf.io,Research Repositories & Open Access,0,"High, open science framework",100.0,1
+31,https://www.thelancet.com,thelancet.com,Additional Research & Reference Sources,0,"Very High, prestigious medical journal",95.0,1
+32,https://worldtruth.biz/articles/high-frequency-energy-healing-banned-by-big-pharma,worldtruth.biz,Alt Health,1707,High-Frequency Energy Healing Banned by Big Pharma,50.0,0
+33,https://osf.io,osf.io,Research Repositories & Open Access,0,"High, open science framework",100.0,1
+34,https://globalenergyatlas.org,globalenergyatlas.org,Climate & Environmental Data,0,"High, renewable energy data",100.0,1
+35,https://uncoverthenews.click/articles/doctors-warn-5g-towers-cause-headaches,uncoverthenews.click,Opinion,3202,Doctors Warn: 5G Towers Cause Headaches,75.0,1
+36,https://naturalhealthexpose.club/articles/5-foods-the-government-doesnt-want-you-to-eat,naturalhealthexpose.club,Conspiracy,1580,5 Foods the Government Doesn’t Want You to Eat,80.0,1
+37,https://worldtruth.biz/articles/scientists-admit-climate-change-is-a-hoax,worldtruth.biz,Conspiracy,1849,Scientists Admit Climate Change is a Hoax,50.0,0
+38,https://worldtruth.biz/articles/doctors-warn-5g-towers-cause-headaches,worldtruth.biz,Alt Health,3007,Doctors Warn: 5G Towers Cause Headaches,80.0,1
+39,https://worldtruth.biz/articles/scientists-admit-climate-change-is-a-hoax,worldtruth.biz,News,2118,Scientists Admit Climate Change is a Hoax,50.0,0
+40,https://biorxiv.org,biorxiv.org,Research Repositories & Open Access,0,"High, biology preprints",100.0,1
+41,https://portal.issn.org,issn.org,Additional Research & Reference Sources,0,"High, international journal identification",100.0,1
+42,https://climate.nasa.gov,nasa.gov,Climate & Environmental Data,0,"Very High, NASA climate research",100.0,1
+43,https://www.chathamhouse.org,chathamhouse.org,Think Tanks & Policy Research,0,"High, international affairs research",100.0,1
+44,https://worldtruth.biz/articles/vaccines-contain-tracking-microchips-insider-claims,worldtruth.biz,Opinion,3253,"Vaccines Contain Tracking Microchips, Insider Claims",50.0,0
+45,https://carnegieendowment.org,carnegieendowment.org,Think Tanks & Policy Research,0,"High, international peace research",100.0,1
+46,https://www.science.org,science.org,Additional Research & Reference Sources,0,"Very High, AAAS peer-reviewed research",100.0,1
+47,https://globalintel.site/articles/5-foods-the-government-doesnt-want-you-to-eat,globalintel.site,Conspiracy,3359,5 Foods the Government Doesn’t Want You to Eat,80.0,1
+48,https://breaking-health-news.co/articles/vaccines-contain-tracking-microchips-insider-claims,breaking-health-news.co,News,3699,"Vaccines Contain Tracking Microchips, Insider Claims",45.0,0
+49,https://europepmc.org,europepmc.org,Research Repositories & Open Access,0,"High, life sciences research",100.0,1
+50,https://carnegieendowment.org,carnegieendowment.org,Think Tanks & Policy Research,0,"High, international peace research",100.0,1
+51,https://datadryad.org,datadryad.org,Research Repositories & Open Access,0,"High, open research data",100.0,1
+52,https://truthtimes.today/articles/ai-surveillance-will-replace-human-police-by-2030,truthtimes.today,Blog,2475,AI Surveillance Will Replace Human Police by 2030,80.0,1
+53,https://govfalseclaims.net/articles/deep-state-using-chemtrails-to-control-minds,govfalseclaims.net,Opinion,2454,Deep State Using Chemtrails to Control Minds,45.0,0
+54,https://uncoverthenews.click/articles/quantum-crystals-offer-unlimited-energy-inventor-claims,uncoverthenews.click,News,3970,"Quantum Crystals Offer Unlimited Energy, Inventor Claims",75.0,1
+55,https://naturalhealthexpose.club/articles/scientists-admit-climate-change-is-a-hoax,naturalhealthexpose.club,Conspiracy,3813,Scientists Admit Climate Change is a Hoax,50.0,0
+56,https://portal.issn.org,issn.org,Additional Research & Reference Sources,0,"High, international journal identification",100.0,1
+57,https://globalintel.site/articles/scientists-admit-climate-change-is-a-hoax,globalintel.site,Blog,2133,Scientists Admit Climate Change is a Hoax,50.0,0
+58,https://uncoverthenews.click/articles/doctors-warn-5g-towers-cause-headaches,uncoverthenews.click,Opinion,3202,Doctors Warn: 5G Towers Cause Headaches,75.0,1
+59,https://govfalseclaims.net/articles/fluoride-in-water-lowers-iq-according-to-study,govfalseclaims.net,Alt Health,3956,Fluoride in Water Lowers IQ According to Study,75.0,1
+60,https://www.piie.com,piie.com,Think Tanks & Policy Research,0,"High, international economics",95.0,1
+61,https://worldtruth.biz/articles/nasa-confirms-earth-will-go-dark-for-6-days,worldtruth.biz,Blog,2431,NASA Confirms Earth Will Go Dark for 6 Days,80.0,1
+62,https://figshare.com,figshare.com,Research Repositories & Open Access,0,"High, research data repository",95.0,1
+63,https://www.cambridge.org,cambridge.org,Education & Research Institutions,0,"Very High, Cambridge publishing",100.0,1
+64,https://healthsecrets.info/articles/coconut-oil-proven-to-treat-alzheimers-say-experts,healthsecrets.info,News,2801,"Coconut Oil Proven to Treat Alzheimer’s, Say Experts",80.0,1
+65,https://worldtruth.biz/articles/new-study-proves-essential-oils-cure-cancer,worldtruth.biz,News,2794,New Study Proves Essential Oils Cure Cancer,80.0,1
+66,https://worldtruth.biz/articles/new-study-proves-essential-oils-cure-cancer,worldtruth.biz,News,2794,New Study Proves Essential Oils Cure Cancer,80.0,1
+67,https://zenodo.org,zenodo.org,Research Repositories & Open Access,0,"High, open science repository",100.0,1
+68,https://www.ipcc-data.org,ipcc-data.org,Climate & Environmental Data,0,"Very High, IPCC data distribution",100.0,1
+69,https://chemrxiv.org,chemrxiv.org,Research Repositories & Open Access,0,"High, chemistry preprints",100.0,1
+70,https://naturalhealthexpose.club/articles/scientists-admit-climate-change-is-a-hoax,naturalhealthexpose.club,Conspiracy,3813,Scientists Admit Climate Change is a Hoax,50.0,0
+71,https://globalintel.site/articles/5-foods-the-government-doesnt-want-you-to-eat,globalintel.site,Conspiracy,3359,5 Foods the Government Doesn’t Want You to Eat,80.0,1
+72,https://worldtruth.biz/articles/nasa-confirms-earth-will-go-dark-for-6-days,worldtruth.biz,Blog,2431,NASA Confirms Earth Will Go Dark for 6 Days,80.0,1
+73,https://www.nature.com,nature.com,Additional Research & Reference Sources,0,"Very High, leading scientific journal",95.0,1
+74,https://open.canada.ca,canada.ca,Government Data Portals,0,"High, Canadian government data",100.0,1
+75,https://naturalhealthexpose.club/articles/deep-state-using-chemtrails-to-control-minds,naturalhealthexpose.club,Conspiracy,3752,Deep State Using Chemtrails to Control Minds,50.0,0
+76,https://worldtruth.biz/articles/new-study-proves-essential-oils-cure-cancer,worldtruth.biz,News,2794,New Study Proves Essential Oils Cure Cancer,80.0,1
+77,https://carnegieendowment.org,carnegieendowment.org,Think Tanks & Policy Research,0,"High, international peace research",100.0,1
+78,https://carnegieendowment.org,carnegieendowment.org,Think Tanks & Policy Research,0,"High, international peace research",100.0,1
+79,https://data.gov,data.gov,Government Data Portals,0,"Very High, US government open data",100.0,1
+80,https://open.canada.ca,canada.ca,Government Data Portals,0,"High, Canadian government data",100.0,1
+81,https://ssrn.com,ssrn.com,Research Repositories & Open Access,0,"High, social science preprints",95.0,1
+82,https://biorxiv.org,biorxiv.org,Research Repositories & Open Access,0,"High, biology preprints",100.0,1
+83,https://uncoverthenews.click/articles/quantum-crystals-offer-unlimited-energy-inventor-claims,uncoverthenews.click,News,3970,"Quantum Crystals Offer Unlimited Energy, Inventor Claims",75.0,1
+84,https://data.humdata.org,humdata.org,International Organizations & Intergovernmental Bodies,0,"High, humanitarian data OCHA",100.0,1
+85,https://www.bailii.org,bailii.org,Legal & Regulatory Sources,0,"High, UK/Irish legal information",100.0,1
+86,https://healthsecrets.info/articles/unvaccinated-children-are-healthier-data-shows,healthsecrets.info,Conspiracy,3355,"Unvaccinated Children Are Healthier, Data Shows",80.0,1
+87,https://worldtruth.biz/articles/doctors-warn-5g-towers-cause-headaches,worldtruth.biz,Alt Health,3007,Doctors Warn: 5G Towers Cause Headaches,80.0,1
+88,https://www.ietf.org,ietf.org,Standards Organizations,0,"Very High, internet standards",100.0,1
+89,https://healthsecrets.info/articles/vaccines-contain-tracking-microchips-insider-claims,healthsecrets.info,News,2008,"Vaccines Contain Tracking Microchips, Insider Claims",50.0,0
+90,https://www.harvard.edu,harvard.edu,Education & Research Institutions,0,"Very High, leading university",100.0,1
+91,https://breaking-health-news.co/articles/unvaccinated-children-are-healthier-data-shows,breaking-health-news.co,Opinion,2030,"Unvaccinated Children Are Healthier, Data Shows",75.0,1
+92,https://globalenergyatlas.org,globalenergyatlas.org,Climate & Environmental Data,0,"High, renewable energy data",100.0,1
+93,https://www.ipcc-data.org,ipcc-data.org,Climate & Environmental Data,0,"Very High, IPCC data distribution",100.0,1
+94,https://healthsecrets.info/articles/vaccines-contain-tracking-microchips-insider-claims,healthsecrets.info,News,2008,"Vaccines Contain Tracking Microchips, Insider Claims",50.0,0
+95,https://www.nato.int,nato.int,International Organizations & Intergovernmental Bodies,0,"High, international security organization",100.0,1
+96,https://open.canada.ca,canada.ca,Government Data Portals,0,"High, Canadian government data",100.0,1
+97,https://finance.yahoo.com,finance.yahoo.com,Financial & Economic Data,0,"High, market data",95.0,1
+98,https://climate.nasa.gov,nasa.gov,Climate & Environmental Data,0,"Very High, NASA climate research",100.0,1
+99,https://govfalseclaims.net/articles/global-elites-control-the-weather-report-suggests,govfalseclaims.net,News,3715,"Global Elites Control the Weather, Report Suggests",45.0,0
+100,https://data.gov,data.gov,Government Data Portals,0,"Very High, US government open data",100.0,1
